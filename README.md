@@ -1,2 +1,2 @@
-# abstract_in_pubmed_csv
-I noticed that when downloading a CSV file from the PubMed website, the abstracts are not included in the exported data. This script helps by automatically retrieving abstracts for each PMID (PubMed Identifier) and adding them as a new column in your CSV file. This script can solve the problem.
+# Add Missing Abstracts to Your Saved PubMed CSV File
+I noticed that when downloading a CSV file from the PubMed website, the abstracts are not included in the exported data. This script helps by automatically retrieving abstracts for each PMID (PubMed Identifier) and adding them as a new column in your CSV file. Simply run the script with your downloaded file, and it will fetch the missing abstracts directly from PubMed.
